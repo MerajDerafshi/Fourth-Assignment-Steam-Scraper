@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Fourth-Assignment-Steam-Scraper.iml" filepath="$PROJECT_DIR$/.idea/Fourth-Assignment-Steam-Scraper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HTML-Parser.main.iml" filepath="$PROJECT_DIR$/.idea/modules/HTML-Parser.main.iml" />
     </modules>
   </component>
 </project>
